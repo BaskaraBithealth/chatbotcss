@@ -8,6 +8,15 @@
   background-color : black !important;
   color: white !important;
 }
+/* chat window - composer */
+.composer, .composer > textarea {
+  background-color : black !important;
+}
+
+.composer > textarea, .composer > textarea::-webkit-input-placeholder {
+  color: white !important;
+}
+
 .composer-icon {
   background-image: url('https://drive.google.com/file/d/18ZdQtIGymntRVAQsxm_bIOYSJaal-loU/view?usp=sharing');
 }
