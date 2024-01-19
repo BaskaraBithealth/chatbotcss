@@ -3,6 +3,11 @@
   background-color: black !important;
   color : white !important;
 }
+/* chat window - top header */
+.header{
+  background-color : black !important;
+  color: white !important;
+}
 .composer-icon {
   background-image: url('https://drive.google.com/file/d/18ZdQtIGymntRVAQsxm_bIOYSJaal-loU/view?usp=sharing');
 }
